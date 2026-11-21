@@ -4,8 +4,8 @@
 class CtxGuard < Formula
   desc "Local hooks that check AI agents' package installs and shrink long output"
   homepage "https://github.com/viktor-tapovski/ctx-guard"
-  url "https://github.com/viktor-tapovski/ctx-guard/releases/download/v0.10.0/ctx-guard-0.10.0.tar.gz"
-  sha256 "ea243d897c40a862543c4693746ce481463aa4657e5538f8bc663900a5f6541a"
+  url "https://github.com/viktor-tapovski/ctx-guard/releases/download/v0.11.0/ctx-guard-0.11.0.tar.gz"
+  sha256 "bb11c2007e8229bb85f31fdfadc09dc61156fc91b115e9668dfc487c1086239a"
   license "MIT"
 
   depends_on "python@3.13"
